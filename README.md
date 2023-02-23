@@ -1,4 +1,4 @@
-# PromethusAI_StartUp
+# PromethusAI_Hackaton
 <h3> 독거노인 심리상담 챗봇 웹앱 서비스 구현 </h3>
 <h5> PromethusAI 해커톤 대회 - 파워레인조 </h5>
 <h5> React-Native 개발자, AI 개발자, 기획자, Figma 디자이너 </h5>
