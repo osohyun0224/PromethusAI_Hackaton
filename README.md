@@ -56,5 +56,17 @@
   <img src="https://user-images.githubusercontent.com/53892427/221407113-5d1d7b60-bbe0-4fc8-b3ca-88d87a804da0.png">
 </p>
 
-2. 나눔이와 채팅 구현
+2. 나눔이와 채팅창 및 나눔이 캐릭터 구현
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/53892427/221407054-132c90a6-9214-4e77-b559-b57bb5c9de6a.png">
+</p>
 
+3. 채팅 구현
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/53892427/221407083-9ab9fd4a-cf29-4dc1-b9c4-a3e16c7d5e4f.png">
+</p>
+
+4. 게시판 구현
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/53892427/221407094-83f6cc07-58d5-4c63-9320-31838097c731.png">
+</p>
