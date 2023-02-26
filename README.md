@@ -50,4 +50,11 @@
 
 ***
 
-1. 구현 앱 개발 화면 및 디자인 소개
+## 구현 앱 개발 화면 및 디자인 소개
+1.  로그인 / 회원가입 구현
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/53892427/221407113-5d1d7b60-bbe0-4fc8-b3ca-88d87a804da0.png">
+</p>
+
+2. 나눔이와 채팅 구현
+
